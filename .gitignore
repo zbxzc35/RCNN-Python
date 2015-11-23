@@ -1,0 +1,11 @@
+caffe/
+data/
+datasets/
+fast_rcnn/
+feat_cache/
+roi_data_layer
+selective_search_py/
+.idea/
+.cache/
+*.pyx
+*.pyc
